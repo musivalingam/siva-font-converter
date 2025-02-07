@@ -1,0 +1,218 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="textBox1.Text" xml:space="preserve">
+    <value>               
+                         எழுத்துரு மாற்றியைப் பயன்படுத்துவது எப்படி?
+   
+   -- டேம் (TAM), டேப் (TAB), டேஸ் (TACE), டிஸ்க்கி, ஸ்ரீலிபி, வானவில், பாமினி, சாஃப்ட்வியூ, எல்டீ-டீஎம், யுனிகோடு ஆகிய எழுத்துருக்களில் அமைந்த கோப்புகளுக்கு இந்த மென்பொருளைப் பயன்படுத்தலாம்.
+
+   -- டேம், டேப், டேஸ்,  டிஸ்க்கி, ஸ்ரீலிபி, வானவில், பாமினி, சாஃப்ட்வியூ அல்லது எல்டீ-டீஎம் எழுத்துருவை யுனிகோடுக்கு மாற்றலாம். யுனிகோடு எழுத்துருவை டேம், டேப், டேஸ், டிஸ்க்கி, ஸ்ரீலிபி, வானவில், பாமினி, சாஃப்ட்வியூ அல்லது எல்டீ-டீஎம் எழுத்துருவுக்கு மாற்றலாம்.
+
+   --எந்தவோர் எழுத்துருவையும் வேறெந்த எழுத்துருவாகவும் மாற்ற முடியும். முதலில் அதனை யுனிகோடுக்கு மாற்றிப் பிறகு தேவையான எழுத்துருவுக்கு மாற்றிக் கொள்ளலாம். எடுத்துக்காட்டாக, டேம், டேப்  எழுத்துருக்களை டேஸாக மாற்ற, முதலில் அவற்றை யுனிகோடுக்கு மாற்றிப் பிறகு டேஸுக்கு மாற்றிக் கொள்ளலாம்.
+  
+   -- எழுத்துரு மாற்ற வேண்டிய கோப்பு RTF வடிவமைப்பில் இருக்குமாயின் அதனை நேரடியாக இந்த மென்பொருளில் திறந்து எழுத்துருவை மாற்றலாம். வேர்டு, பேஜ்மேக்கர் போன்ற பிற மென்பொருள்களில் உருவாக்கிய கோப்பு எனில், அதனை அந்த மென்பொருளில் திறந்து, கோப்பின் உள்ளடக்கத்தை நகலெடுத்து, இந்த மென்பொருளில் ஒட்டிக் கொண்டு (Copy &amp; Paste) எழுத்துருவை மாற்றலாம். மாற்றியபின் RTF கோப்பாகச் சேமிக்கலாம். அல்லது அப்படியே நகலெடுத்து எம்எஸ் வேர்டு அல்லது பிற மென்பொருள் ஆவணங்களில் ஒட்டிச் சேமித்துக் கொள்ளலாம்.
+      
+   -- எழுத்துரு மாற்றியபின், மூலக் கோப்பிலுள்ள ஆங்கில உரைப்பகுதிகள், படங்கள், அட்டவணைகள், வடிவமைப்புகள் அனைத்தும் அப்படியே தக்கவைத்துக் கொள்ளப்படும். அட்டவணைகள் பிழையாகத் தோற்றமளிப்பினும் RTF கோப்பாகச் சேமித்தபின் அல்லது நகலெடுத்து எம்எஸ் வேர்டில் ஒட்டிக் கொண்டபின் அவை சரியாகவே இருப்பதைக் காணலாம்.
+  
+ --  ஆவணம் முழுக்க குறிப்பிட்ட எழுத்துருவை (தமிழ், ஆங்கிலம்) அதே இனத்தில் வேறோர் எழுத்துருவாக மாற்றிக் கொள்ளலாம். இதில் எழுத்துருவின் உருவளவு, வடிவமைப்பை மாற்ற இயலாது. ஆனால், தேர்ந்தெடுத்த குறிப்பிட்ட உரைப்பகுதியின்  எழுத்துரு, அதன் உருவளவு, பாணி ஆகியவற்றை மாற்றியமைக்க முடியும்.
+
+   -- ஓர் ஆவணம் உங்கள் கணிப்பொறியில் இல்லாத ஓர் எழுத்துருவில் அமைந்திருப்பின், அதே இனத்தில் வேறோர் எழுத்துரு உங்களிடம் இருக்குமாயின், அந்த எழுத்துருவுக்கு மாற்றிக் கொள்ளலாம்.
+
+   -- காட்சி மெனுத்தேர்வில் எழுத்தினைப் பெரிதாக்கி அல்லது சிறிதாக்கிப் பார்வையிடலாம். இவ்வசதி வெறும் காட்சிக்கு மட்டுமே. எழுத்துருவின் உருவளவை அது மாற்றுவதில்லை. உரைப் பெட்டியின் பின்புல நிறத்தையும், உரையின் நிறத்தையும் மாற்ற வசதியுள்ளது.
+</value>
+  </data>
+  <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+  <data name="$this.Icon" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        AAABAAEAICAAAAEAIACoEAAAFgAAACgAAAAgAAAAQAAAAAEAIAAAAAAAABAAAMMOAADDDgAAAAAAAAAA
+        AAD5/v//+f7///n+///5/v//+f7///n+///5/v//+f7///n+///5/v//+f7///v////8////+v////f8
+        /f/1+vv/9fr7//f8/f/6/////P////r////5/v//+f7///n+///5/v//+f7///n+///5/v//+f7///n+
+        ///5/v//+f7///n+///5/v//+f7///n+///5/v//+f7///n+///5/v//+f7///v////2+/v/4+jq/87S
+        1v/Bxsv/u8HG/7i9xf+6v8b/vMLH/8DFyf/O0tb/4+jq//b7+//7////+f7///n+///5/v//+f7///n+
+        ///5/v//+f7///n+///5/v//+f7///n+///5/v//+f7///n+///5/v//+f7///v////0+fn/09fa/7m+
+        w/++xcv/y9Xa/9Pe4v/a5ej/2OTn/7fAw//P2tz/3unt/8zV2v++xsv/ub7D/9PY2//0+fr/+/////n+
+        ///5/v//+f7///n+///5/v//+f7///n+///5/v//+f7///n+///5/v//+f7///n+///6////4OXm/7i9
+        wv/I0db/4u7x/7bAwf+Dior/mqGj/3V7fP+JkJD/YGVm/3N4ef+gqKn/p7Gx/7/Jyv/k8fP/yNHW/7i9
+        wv/g5Ob/+v////n+///5/v//+f7///n+///5/v//+f7///n+///5/v//+f7///n+///5/v//+f39/8/U
+        1v+7wsb/4+/y/+j19v/Ezs//g4mK/3R6ev+KkZH/dXt8/6ixsv+IkJD/pa6u/4uSk/94fn//kJeY/9Xh
+        4v/l8fL/5PDz/7rCxv/P1Nb/+f39//n+///5/v//+f7///n+///5/v//+f7///n+///5/v//+f7///n9
+        /f/KztD/w8zP/+35+v/t+fr/m6Ok/3qAgf+qs7X/0dvc/9Tg5P/K1Nv/1eDn/9rl7P/a5ez/097i/7vF
+        xv/S3t//nqan/4qRkv/c6On/7/v9/8TN0P/KztD/+f39//n+///5/v//+f7///n+///5/v//+f7///n+
+        ///6////0NTW/8TNz//v+/z/xM7P/5igof/EztD/097f//H8+//Axt7/jIvd/5iY4v+Xl+H/mJjh/5eW
+        4f+Ni93/wcff//T////Y4+T/k5uc/4iPkP/I09X/1uLj/8TO0P/Q1Nb/+v////n+///5/v//+f7///n+
+        ///5/v//+v///+Hl5v+8xMb/7vr7/7rExf+Ei4z/qbKz/+33+P/j8vb/lsPO/12JvP+Gg/X/pqn6/6Oq
+        +v+eq/r/oar6/4eE9f9firz/nMbK/+bx8//o8/T/oKiq/4KIif+bo6T/6fT1/7zEx//h5eb/+v////n+
+        ///5/v//+f7///n+///0+fn/u8DD/+Xx8//P2tv/c3l6/7W/wP/x/P3/zuLn/1mq0v8hqOr/J7Ht/zuZ
+        4P9AmOT/Pprk/zud5v8+neT/Pp3f/yy+7v8quuX/Y67G/9Ll6v/j7e7/jpaW/4eOj/+yu7z/2+fo/7vB
+        w//0+fn/+f7///n+///5/v//+////9XZ2//K1Nb/8f7//6y1tv+KkZL/5vLz/9Dj6f9LpMv/G6X0/xui
+        +v8dpvr/Har6/xyo+f8dq/r/Hq36/x+v+v8htfv/ILH7/x+t/P8erfT/T6nP/8/j6f/i7u//jJSV/4GI
+        iP/X4+T/zNXX/9XZ2//7////+f7///n+///2+/v/vcPF/+n29//BzM3/Z2xt/5CXmP/a6ez/XKzV/xuj
+        9P8bovr/GqD4/xuh+f8bofn/GqH5/xuh+f8bofn/G6H5/xyj+f8bofn/G6H5/xyj+v8ep/L/Z6/P/+f0
+        9v+bo6T/fYSE/8nU1v/p9vf/vcPF//b7+//5/v//+v///+Xp6v/EzM7/8v///9nl5v+5w8T/4Ovs/5/I
+        1v8ipOj/G6L6/xyh+f8eofj/JqHz/y6Z5f8sm+3/K531/y+d9P8wnO3/L6Dt/yKi9v8dofj/G6H5/x2j
+        +v8mpeP/p8vW/8LKy/+qs7T/4Ozu//L////EzM7/5Onq//r////7////0dbX/9bg4v/y////8Pr6//T/
+        ///k8/X/VK/P/x+x+f8cpPr/HKT5/y2l8f9kp9f/i6C8/2mGy/9fgs//ZIjV/22N0v+Kqsv/WLDp/ySk
+        9v8bofn/G6L5/x6v+P9dr8v/6PT2//L+///v+vr/8v///9bg4v/R1tf/+/////r////GzM3/5PDx/8nh
+        5v+SvMr/6vj4/8Pc5f8wr9//H678/x2n+v8hsvv/KsL6/2rH3f+jk6T/b2Sd/2lgl/9xbKb/e3q6/6Gf
+        rv9e0e7/JLj7/x2n+v8co/n/Han7/zGo3v/E3+r/6Pb3/5G7yf/M4+j/5PDx/8bMzf/6////+f/9/5qU
+        wf96X97/Q1u6/xhwuf9oWMz/YmzI/yWv6P8eqfv/H636/ynH/P8v3f7/OeP7/2qQtf92a6L/gn+8/4OC
+        vv96d6//W67J/zTl//8t0/3/IrP7/xyj+f8cpPr/Iqfq/1501f9lWcr/F3C5/0Zau/96X9//mpTB//n/
+        /f/5//v/e2q7/zgG2f85DtT/MhbA/z0I3f8uMrr/I7Ls/x2n+v8hsPr/LdT9/zPl/v814fr/XI/F/3Nu
+        pf99d6//fXyz/3N6uv9PuuX/Muf//zLh/v8nwvz/Hqn6/x2o+/8iru7/LjvK/z4L3f8zF8D/OQ3V/zgG
+        2f96abr/+P77//j++/97a7v/Ogja/1cu4v+CaOn/a0bl/zE0vP8ktOz/Hqn7/yGx+/8t1P3/Mub//0PE
+        5v9tfsL/dHOr/2hjjf9qapr/eILI/2ec1/843/n/MuP+/ynI/f8frPr/Hqr7/yOw6/8xMsT/ZD3k/4lx
+        6v9bM+L/OQja/3tquv/4/vv/+v/9/4V4vP85B9f/YDvj/5aE6/+Fa+r/NSrD/yOo5f8fq/v/IbL7/y3T
+        /f8z5f7/TZjH/3N4vv+Ij9j/g47W/4GQ2v+MmuX/b4TE/z7L7P8x5P//KMX8/x6n+v8eqPv/I6Ti/zQk
+        xf9yUef/ppru/2lI5f84B9f/hXi8//r//f/9////nJXE/zkL0f9OIuH/gGbo/4x16/9BKdH/IpHZ/x6s
+        /P8hsvv/LdX9/zTj/P9CeJ7/Y2KZ/3Fzqv9web7/cHq9/3R6sf9haZ3/O7XV/zLl//8nwvz/HaX5/x6r
+        +/8jhdH/Qh/Q/4Rq6f+AZ+j/Uynh/zkK0f+clMT//f////3///+/vdP/PhTG/0kc4f98Yef/cVLm/0wm
+        3f8nYsj/ILD3/x6q+v8rz/3/M+P7/y1neP9aWo//fIC1/4SQ1f+Bjc//fIS9/1Zchf8wo7X/MuX//yjF
+        /P8eqfr/IK/1/ylVxP9KHNz/jnjq/5eF6/9NIeL/PhTG/7+90//9////+////+Pn6f9SNLj/PQvf/2M/
+        4/+cjO3/cE/n/zMgxf8hktn/Hqr8/ya//P8x2/n/KFhi/1tYi/+Sktj/k53o/5Gb5f+KkdX/XmCD/zyr
+        u/8x4v//JsD8/yG0/P8kltj/NCHL/1w04/9/ZOj/cVPl/z4N3/9SNLn/4+bp//v////5/v//+f78/4N2
+        uv85CdX/TSHh/3RV5v96Xuf/SRvc/yxBvP8iqef/ILD8/yrM/v8qgpH/Pj5g/3N3tf97hcf/fYjO/251
+        tf9BXXj/M8bg/ybB/f8gsPz/IKbo/y0/wf9GF93/b0/l/3tf5/9mQuT/OQjV/4R2uv/5/vz/+f7///n+
+        ///8////ysvZ/0Ugvv89C9//Z0Tk/62j7/90Vef/PA3U/ypMuf8foeb/H6/9/yex5v8pSVr/PDM+/zgx
+        O/9HQVL/Oj9R/zCjvf8qy/7/H6/8/yCf4/8qSr3/QRXZ/3JT5v+klu3/fWLn/z8O4P9FIL7/ysvZ//z/
+        ///5/v//+f7///n+///3/Pr/g3a5/zkK0/9QJOH/Yj3j/1s04v9iPeT/OwzW/yw3u/8hhs//H6ry/yCc
+        3f8pbJD/MVJi/zZYZf8xja//Jbr4/yGw8v8jiM//Lje+/zwL1v93Wuf/h3Do/4hx6f9YMOL/OQrT/4N2
+        uf/3/Pr/+f7///n+///5/v//+f7///v////e4OX/WD21/zsJ3P8/Dd7/iXLq/4Nq6P9YMOL/TyPe/zUW
+        xf8qQ7j/InPI/yCM1v8imNr/IpfX/yCR3P8jdcz/K0O7/zcWyP9DEt3/dljn/4pz6f+ej+z/XTfj/zoJ
+        3P9YPbX/3uDl//v////5/v//+f7///n+///5/v//+f7///v////CwdP/SSe5/z0M3f9lQeT/d1vm/4ly
+        6v+EbOn/XTbk/0YV3f88D9D/NhbF/zQfxf8yG8L/NRbJ/z0S1P9FE93/Xjfk/4Rs6f+Ugev/gWfo/102
+        4/8+Dd7/SCe4/8HA0//7////+f7///n+///5/v//+f7///n+///5/v//+f7///r//v+2tM3/SSe5/zsJ
+        3P9PI+H/fmPn/5J+6/+ilO3/mYfs/2E85P9SJuL/Rxfg/2tH5v9jPuX/eVzo/4hx6f+ik+3/oJDt/3VX
+        5v9KHeD/Owrc/0knuf+2s8z/+v/+//n+///5/v//+f7///n+///5/v//+f7///n+///5/v//+f7///r/
+        /v/BwdT/WD21/zoL0/9EFOD/XDXj/4t06v+HcOn/hWzp/2E84/9nROT/gmjo/4Vt6P+Jcun/h3Dp/4dv
+        6f9iPuT/QxPg/zoL0/9YPbX/wcHU//r//v/5/v//+f7///n+///5/v//+f7///n+///5/v//+f7///n+
+        ///5/v//+f7///v////e4eb/g3a6/0Qgvv86Ctb/Pg3f/04i4f9xUub/Xjjj/1Al4f98Yej/Z0Tk/185
+        4/9ZMeP/Pgzf/zoK1v9EIL3/g3a5/93h5v/7////+f7///n+///5/v//+f7///n+///5/v//+f7///n+
+        ///5/v//+f7///n+///5/v//+f7///v////3+/r/ysvZ/4R2uv9SNLj/PRTF/zgJ0f86Cdf/Ogna/zsL
+        2v86Cdf/OAnR/z0Txf9SNLj/g3a6/8rL2f/3+/r/+/////n+///5/v//+f7///n+///5/v//+f7///n+
+        ///5/v//+f7///n+///5/v//+f7///n+///5/v//+f7///n+///8////+f38/+Ln6v+/vtP/nJXD/4V3
+        vP97arr/e2q6/4V4vP+clMP/vr3T/+Pn6v/5/fz//P////n+///5/v//+f7///n+///5/v//+f7///n+
+        ///5/v//+f7///n+///5/v//+f7///n+///5/v//+f7///n+///5/v//+f7///n+///5/v//+/////3/
+        ///9////+v/9//j++//4/vv/+v/9//3////9////+/////n+///5/v//+f7///n+///5/v//+f7///n+
+        ///5/v//+f7///n+///5/v//AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=
+</value>
+  </data>
+</root>
