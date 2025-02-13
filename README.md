@@ -16,3 +16,5 @@ The .exe file of the latest build is in the base of the repo. Run it directly to
 
 ## Contributions
 To contribute features and bug fixes to the project, please send a pull request.
+
+For queries, contact [info@sivalingam.com](mailto:info@sivalingam.com).
